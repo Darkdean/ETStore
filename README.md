@@ -10,8 +10,8 @@ ETLab资料库源码
 php+mysql+apache(或者其他web中间件)
 
 ### 登录配置
-默认用户名为admin_store
-默认密码为adminStore
+默认用户名为store_admin
+默认密码为storeAdmin
 
 ### 功能(文件存储)
 1.上传文件，仅允许上传zip，doc，docx
